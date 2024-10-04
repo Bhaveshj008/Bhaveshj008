@@ -70,7 +70,7 @@ Let's collaborate or chat about web development and tech! You can reach out to m
 
 - **📧 Email**: bhavesh@example.com
 - **💼 LinkedIn**: [linkedin.com/in/bhaveshjadhav](#)
-- **🌐 Portfolio**: [bhaveshjadhav.com](#)
+- **🌐 Portfolio**: [bhaveshjadhav.online](#)
 
 ---
 
