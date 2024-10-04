@@ -60,7 +60,6 @@ I hail from **Brahmangaon, Nashik district**, currently pursuing a **Master of C
 ## 🏆 Achievements & Milestones
 - **💡 Smart India Hackathon (SIH)**: Representing Tech Mavericks team with our innovative project, eSmartCertify, for real-time monitoring of government services.
 - **🎓 Unnati Program Graduate**: Enhanced confidence, communication skills, and leadership through this prestigious program.
-- **📜 Certifications**: [Your Certifications Here]
 
 ---
 
