@@ -65,9 +65,9 @@ I hail from **Brahmangaon, Nashik district**, currently pursuing a **Master of C
 
 Let's collaborate or chat about web development and tech! You can reach out to me via:
 
-- **📧 Email**: bhavesh@example.com
-- **💼 LinkedIn**: [linkedin.com/in/bhaveshjadhav](#)
-- **🌐 Portfolio**: [bhaveshjadhav.online](#)
+- **📧 Email**: reachout@bhaveshjadhav.online
+- **💼 LinkedIn**: [Bhavesh Jadhav](https://www.linkedin.com/in/bhavesh-jadhav-82b956280/)
+- **🌐 Portfolio**: [bhaveshjadhav.online](bhaveshjadhav.online)
 
 ---
 
