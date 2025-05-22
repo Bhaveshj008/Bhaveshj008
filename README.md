@@ -14,7 +14,7 @@ I hail from **Brahmangaon, Nashik district**, currently pursuing a **Master of C
 
 ## 🚀 Featured Projects
 
-### 1. **ClientsVoice** 🎤 *(Ongoing)*
+### 1. **ClientsVoice** 🎤 
 - **Role**: Team Lead & Backend Developer
 - **Summary**: ClientsVoice is an AI-driven platform that simplifies collecting and managing client testimonials and feedback. It includes a fully customizable form builder for businesses to gather input seamlessly.
 - **Tech Stack**: ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
