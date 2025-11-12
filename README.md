@@ -1,14 +1,7 @@
 ## Hi there 👋
 # I'm Bhavesh Jadhav - Full stack Developer 👨‍💻
 
-Welcome to my personal profile repository. I’m Bhavesh Jadhav, a passionate web developer with a knack for building full-stack applications using modern technologies. This repo showcases my skills, projects, and achievements, offering a glimpse into my journey as a developer.
-
-## 👨‍🎓 About Me
-I hail from **Brahmangaon, Nashik district**, currently pursuing a **Master of Computer Application** at the Government College of Engineering, Aurangabad. With a love for solving real-world problems, I specialize in backend development but also contribute actively to frontend projects. 
-
-- **🌐 Location**: Nashik, Maharashtra, India
-- **📚 Education**: Master of Computer Application (MCA)
-- **👨‍💻 Focus**: Full-stack development with a flair for performance optimization and API design.
+Welcome to my personal profile repository. I’m Bhavesh Jadhav, a passionate developer with a knack for building full-stack applications using modern technologies. This repo showcases my skills, projects, and achievements, offering a glimpse into my journey as a developer.
 
 ---
 
